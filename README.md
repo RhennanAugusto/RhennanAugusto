@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rhennan Augusto Santana do Carmo</h1>
-<h3 align="center">Computer Science student and passionate about technology</h3>
+<h3 align="center">A technology enthusiast from Brazil</h3>
 
 - 🔭 I’m currently working on [Django web application for doctors](https://github.com/RhennanAugusto/Medicos-APP)
 
@@ -7,11 +7,11 @@
 
 - 📫 How to reach me **rhennanaugusto23@gmail.com**
 
-- ⚡ Fun fact **I've afraid of geckos**
+- ⚡ Fun fact **I LOVE HARRY POTTER**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rhennan-augusto-25126521b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rhennan-augusto-25126521b/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/rhennan-augusto-25126521b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/rhennan-augusto-25126521b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

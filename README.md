@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rhennanaugusto23@gmail.com**
 
-- ⚡ Fun fact **I'm afraid of geckos**
+- ⚡ Fun fact **I've afraid of geckos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
